@@ -36,7 +36,6 @@ Key Insights:
 
 📌 Most Affected Regions: Dhaka Range (146,646 cases) and Chittagong Range (146,256 cases) report the highest crime levels.
 
-📌 Crime Reduction Trend in 2025: This may indicate improved enforcement or possible data limitations.
 
 
 
